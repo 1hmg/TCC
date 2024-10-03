@@ -1,0 +1,13 @@
+.app-container1{
+    text-align: center;
+
+}
+
+.butao{
+    text-decoration: none;
+    cursor: pointer;
+    background-color: white;
+    padding: 5px 14px;
+    color:black;
+    border-radius: 4px;
+}
